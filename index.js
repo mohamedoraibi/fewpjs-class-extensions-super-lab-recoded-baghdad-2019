@@ -4,7 +4,7 @@ class Tree{
   constructor(species){
     this.species=species
     }
-    definition(){
+   static definition(){
       return sentence
     }
 }
