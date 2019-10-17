@@ -3,6 +3,8 @@
 class Tree{
   constructor(species){
     this.species=species
-    
-  }
+    }
+    definition(){
+      return sentence
+    }
 }
