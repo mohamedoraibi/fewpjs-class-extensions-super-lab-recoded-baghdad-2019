@@ -1,7 +1,8 @@
 // Write your classes here
 
 class Tree{
-  constructor(first){
-    this.first=first
+  constructor(species){
+    this.species=species
+    
   }
 }
