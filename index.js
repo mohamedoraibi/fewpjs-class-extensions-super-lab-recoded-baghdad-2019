@@ -9,4 +9,6 @@ class Tree{
     }
 }
 
-class Tree{
+class Deciduous extends Tree{
+  super()
+}
